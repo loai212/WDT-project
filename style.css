@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
+body{
+  background-color:#E9D5DA;
+
+}
+.quiz{
+  text-align: center;
+  padding-bottom: 100px;
+  
+
+}
